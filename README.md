@@ -1,6 +1,6 @@
 # Prebuilt kernel files for POCO F2 Pro/Redmi K30 Pro (lmi/lmipro)
 
-From lmi-user 11 RKQ1.200826.002 V12.2.1.0.RJKMIXM release-keys
+From lmi-user 11 RKQ1.200826.002 V12.2.3.0.RJKMIXM release-keys
 
 ```
 #
