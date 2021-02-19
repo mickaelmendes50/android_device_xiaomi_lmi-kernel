@@ -14,3 +14,7 @@ endif
 
 PRODUCT_COPY_FILES += \
     $(call find-copy-subdir-files,*,$(KERNEL_MODULES_ORIG)/,$(KERNEL_MODULES_DEST))
+
+# Rootdir
+PRODUCT_PACKAGES += \
+    exfat.rc
